@@ -1,4 +1,4 @@
-# The Smart Activist's-Guide to Security:
+# The Smart Activist's Guide to Security:
 ### How to Build an Activist Organization Scratch
 A few weeks ago I gave my sister a copy of "The Smart Girl's Guide to Privacy" by Violet Blue https://www.nostarch.com/smartgirlsguide
 

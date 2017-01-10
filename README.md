@@ -1,5 +1,5 @@
-# The Smart Activist's Guide to Security:
-### How to Build an Activist Organization Scratch
+# The Smart Activist's Guide To Security:
+### How to Build An Activist Organization From Scratch
 A few weeks ago I gave my sister a copy of "The Smart Girl's Guide to Privacy" by Violet Blue https://www.nostarch.com/smartgirlsguide
 
 She still hasn't read it... but, whatever... let's face it, she was more likely to read that than say, "Information Security for Journalists" by Silkie Carlo and Arjen Kamphuis http://www.tcij.org/resources/handbooks/infosec
@@ -22,7 +22,7 @@ What seems to be missing is a Smart Girl's Guide to Privacy or The Knowledge sty
 
 I'm not suggesting another 'Use Tor! Use Signal!' nor a step-by-step guide to installing Qubes https://www.qubes-os.org/ and encrypting USB drives.
 
-Like the thought experiment in The Knowledge, I wonder, "What elements of security should be considered in building an activist organization from scratch?"
+Like the thought experiment in The Knowledge, I wonder: What elements of security should be considered in building an activist organization from scratch?
 
 These issues are often talked about in InfoSec circles but I've never seen a broad prespective presented in a readable form for non-technical activists.
 

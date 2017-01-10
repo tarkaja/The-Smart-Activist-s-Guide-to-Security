@@ -2,7 +2,7 @@
 ### How to Build An Activist Organization From Scratch
 A few weeks ago I gave my sister a copy of "The Smart Girl's Guide to Privacy" by Violet Blue https://www.nostarch.com/smartgirlsguide
 
-She still hasn't read it... but, whatever... let's face it, she was more likely to read that than say, "Information Security for Journalists" by Silkie Carlo and Arjen Kamphuis http://www.tcij.org/resources/handbooks/infosec
+She still hasn't read it... but whatever... she was more likely to read that than say, "Information Security for Journalists" by Silkie Carlo and Arjen Kamphuis http://www.tcij.org/resources/handbooks/infosec
 
 Around the same time I read, "The Knowledge: How to Rebuild Our World From Scratch" by Lewis Dartnell http://the-knowledge.org/en-gb/the-book/
 

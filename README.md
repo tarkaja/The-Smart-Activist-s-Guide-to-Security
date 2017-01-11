@@ -18,7 +18,7 @@ There are already some excellent security 'how-tos' such as, "Surveillance Self-
 
 "The CryptoParty Handbook" https://www.cryptoparty.in/learn/handbook was a great resource.
 
-What seems to be missing is a Smart Girl's Guide to Privacy or The Knowledge style introduction to Cyber Security and OpSec specifically aimed towards activists.
+**What seems to be missing is a general introduction to Cyber Security and OpSec specifically aimed towards activists.**
 
 I'm not suggesting another 'Use Tor! Use Signal!' nor a step-by-step guide to installing Qubes https://www.qubes-os.org/ and encrypting USB drives.
 
